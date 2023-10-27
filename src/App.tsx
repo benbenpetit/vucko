@@ -142,7 +142,7 @@ const App = () => {
                 d='M15.527 11.955 4.081 19.434A2 2 0 0 1 .987 17.76V2.8A2 2 0 0 1 4.08 1.127l11.446 7.48a2 2 0 0 1 0 3.348Z'
               />
             </svg>
-            <img src='/img/plant.jpeg' alt='Plant behind glass' />
+            <img src='./img/plant.jpeg' alt='Plant behind glass' />
           </div>
         </section>
       </main>
